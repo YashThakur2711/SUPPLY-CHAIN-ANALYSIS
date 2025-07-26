@@ -4,7 +4,7 @@
 
 **📌 Overview**
 
-This project focuses on analyzing supply chain and inventory data to optimize stock levels, reduce stockouts, and prevent overstocking. It applies analytical methods using Python for data preprocessing, exploratory data analysis (EDA), and visualization to gain actionable insights into order patterns, stock behavior, and transportation nodes.
+This project focuses on analyzing supply chain and inventory data to optimize stock levels, reduce stockouts, and prevent overstocking. It applies analytical methods using Python for data preprocessing, exploratory data analysis (EDA), and visualization to gain actionable insights into order patterns, stock behavior, and transportation modes.
 
 **🔍 Problem Statement**
 
